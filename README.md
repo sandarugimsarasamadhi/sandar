@@ -24,7 +24,7 @@
 
 # Deploy
 - [Heroku](#deploy-to-heroku)
-- [Okteto](#deploy-to-okteto)
+- [Okteto](#deploy-to-railway)
 - [Local Machine](#deploy-locally)
 
 # Documentation 
